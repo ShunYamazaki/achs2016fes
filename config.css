@@ -1,0 +1,29 @@
+body {
+  min-height: 1000px;
+  padding-top: 70px;
+  background-color: #BDBDBD;
+}
+
+/* navbar 全体の背景色とボーダーカラー */
+.navbar-default {
+background-color: #F44336;
+border-color: #4CAF50;
+}
+
+/* navbar テキストカラー */
+.navbar-default .navbar-nav > li > a {
+color: #FFFFFF;
+}
+
+/* navbar ハンバーガー三本線 */
+.navbar-default .navbar-toggle .icon-bar {
+background-color: #FFFFFF;
+}
+
+.img-responsive-overwrite{
+    margin: 0 auto;
+}
+
+.jumbotron{
+  background-color: #FFFFFF
+}
